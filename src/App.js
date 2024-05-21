@@ -69,7 +69,7 @@ function App() {
               Unleash the power of creativity with Motion Art for Elementor - your ultimate solution for seamlessly integrating captivating animations into your website.
             </h4>
           </div>
-          <div className="md:col-span-1 bg-customColor h-auto flex flex-col items-center justify-center p-4"></div>
+          
         </Element>
         <div>
           <div className='justify-center flex text-xl bold'><p>Trusted by thousands of users around the world</p></div>
