@@ -124,14 +124,14 @@ function App() {
         <div className='px-32'>
         <Element name="feature3" className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8 p-4 ">
   <div className="bg-gray-600  flex flex-col  p-4 rounded-2xl items-left" style={{ marginTop: '20px' }} >
-    <h2 className="text-left text-3xl text-white  px-36">Apply On Section</h2>
-    <h4 className=" text-sm md:text-base mt-4">
+    <h2 className="text-left text-3xl text-white mt-4">Apply On Section</h2>
+    <h4 className="text-left text-sm md:text-base mt-4">
       Apply on section is a game-changer, offering an unparalleled way to manage applications directly from your website.
     </h4>
     <img src={img11} alt="Section " className="mt-4 md:mt-8" />
   </div>
   <div className="bg-gray-600 flex flex-col h-auto justify-center p-4 rounded-2xl mt-4" style={{ marginTop: '100px', marginBottom:'-80px' }}>
-    <h2 className="text-3xl text-white text-left px-36">Apply On Page</h2>
+    <h2 className="text-left text-3xl text-white mt-4">Apply On Page</h2>
     <h4 className="text-left text-sm md:text-base mt-4">
       Take your website to new heights with Motion Art for Elementor. Embrace the power of motion and animation.
     </h4>
